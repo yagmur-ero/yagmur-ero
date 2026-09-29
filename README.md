@@ -16,7 +16,7 @@ I'm most interested in **backend development, databases and networking**.
 |---|---|---|
 | [java-chatbot](https://github.com/yagmur-ero/java-chatbot) | Chatbot that reads a PDF CV and points out missing or weak sections | Java, Maven, OpenNLP, PDFBox |
 | [Warehouse MES Database](https://github.com/yagmur-ero/automation-db-project-mysql) | My internship project: a 6-table MySQL schema for a warehouse automation system | MySQL |
-| [IoT Weather Station](https://github.com/yagmur-ero/arduino-iot-project-buddies) | Arduino that reads sensors and sends the data over MQTT | C++, Arduino, MQTT |
+| [IoT Sensor Node](https://github.com/yagmur-ero/arduino-iot-project-buddies) | Arduino that reads an analog signal and a wind sensor and sends the data over MQTT | C++, Arduino, MQTT |
 | [Robot Car](https://github.com/yagmur-ero/arduino-robot-car) | Arduino robot car, built step by step (in progress) | C++, Arduino |
 
 ### 🛠️ Tools I use
