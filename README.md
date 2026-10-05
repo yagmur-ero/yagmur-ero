@@ -1,15 +1,15 @@
 # Hi, I'm Yağmur 👋
 
 Second-year **Software Engineering** student at **TAMK** in Tampere, Finland 🇫🇮
-I'm most interested in **backend development, databases and networking**.
+I'm most interested in **networking, cloud (AWS) and databases**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ya%C4%9Fmur-eroca%C4%9F%C4%B1-7a78bb360/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=flat&logo=googlechrome&logoColor=white)](https://yagmur-ero.github.io/yagmur-portfolio-page/)
 
 ### 🌱 Right now
-- Building a **Java CV analyzer & chatbot**, next step: saving results to a database
-- Learning **AWS**, **Docker** and **networking** basics
-- Studying data structures (stacks, linked lists) in Java at school
+- Improving my **Java** skills by building small projects
+- Learning **networking**: building a subnet calculator and practising labs in **Cisco Packet Tracer**
+- Looking for an **internship** in networking / IT support
 
 ### 📂 Projects
 | Project | What it is | Tech |
@@ -24,5 +24,6 @@ I'm most interested in **backend development, databases and networking**.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux%20%2F%20WSL-FCC624?style=flat&logo=linux&logoColor=black)
