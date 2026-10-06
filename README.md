@@ -1,15 +1,12 @@
 # Hi, I'm Yağmur 👋
 
-Second-year **Software Engineering** student at **TAMK** in Tampere, Finland 🇫🇮
-I'm most interested in **networking, cloud (AWS) and databases**.
+- 🎓 Software Engineering student at TAMK, Finland
+- 🌐 Interested in networking, cloud and databases
+- ☕ Building small projects in Java
+- 💼 Open to internships and new connections
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ya%C4%9Fmur-eroca%C4%9F%C4%B1-7a78bb360/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=flat&logo=googlechrome&logoColor=white)](https://yagmur-ero.github.io/yagmur-portfolio-page/)
-
-### 🌱 Right now
-- Improving my **Java** skills by building small projects
-- Learning **networking**: building a subnet calculator and practising labs in **Cisco Packet Tracer**
-- Looking for an **internship** in networking / IT support
 
 ### 📂 Projects
 | Project | What it is | Tech |
