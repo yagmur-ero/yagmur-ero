@@ -1,6 +1,6 @@
 # Hi, I'm Yağmur 👋
 
-<img align="right" width="200" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="Kermit the Frog typing frantically">
+<img align="right" width="240" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="Kermit the Frog typing frantically">
 
 - 🎓 Software Engineering student at TAMK, Finland
 - 🌐 Interested in networking, cloud and databases
