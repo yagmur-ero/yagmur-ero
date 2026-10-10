@@ -1,5 +1,7 @@
 # Hi, I'm Yağmur 👋
 
+<img align="right" width="150" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="Kermit the Frog typing frantically">
+
 - 🎓 Software Engineering student at TAMK, Finland
 - 🌐 Interested in networking, cloud and databases
 - ☕ Building small projects in Java
@@ -7,8 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ya%C4%9Fmur-eroca%C4%9F%C4%B1-7a78bb360/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=flat&logo=googlechrome&logoColor=white)](https://yagmur-ero.github.io/yagmur-portfolio-page/)
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Cat typing on a keyboard">
 
 ### 🛠️ Tools I use
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
