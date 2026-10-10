@@ -8,13 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ya%C4%9Fmur-eroca%C4%9F%C4%B1-7a78bb360/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-555555?style=flat&logo=googlechrome&logoColor=white)](https://yagmur-ero.github.io/yagmur-portfolio-page/)
 
-### 📂 Projects
-| Project | What it is | Tech |
-|---|---|---|
-| [java-chatbot](https://github.com/yagmur-ero/java-chatbot) | Chatbot that reads a PDF CV and points out missing or weak sections | Java, Maven, OpenNLP, PDFBox |
-| [Warehouse MES Database](https://github.com/yagmur-ero/automation-db-project-mysql) | My internship project: a 6-table MySQL schema for a warehouse automation system | MySQL |
-| [IoT Sensor Node](https://github.com/yagmur-ero/arduino-iot-project-buddies) | Arduino that reads an analog signal and a wind sensor and sends the data over MQTT | C++, Arduino, MQTT |
-| [Robot Car](https://github.com/yagmur-ero/arduino-robot-car) | Arduino robot car, built step by step (in progress) | C++, Arduino |
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Cat typing on a keyboard">
 
 ### 🛠️ Tools I use
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
