@@ -1,13 +1,11 @@
 # Hi, I'm Yağmur 👋
 
-<img align="left" width="200" hspace="16" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="Kermit the Frog typing frantically">
+<img align="right" width="200" src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="Kermit the Frog typing frantically">
 
-🎓 Software Engineering student at TAMK, Finland<br>
-🌐 Interested in networking, cloud and databases<br>
-☕ Building small projects in Java<br>
-💼 Open to internships and new connections
-
-<br clear="left">
+- 🎓 Software Engineering student at TAMK, Finland
+- 🌐 Interested in networking, cloud and databases
+- ☕ Building small projects in Java
+- 💼 Open to internships and new connections
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ya%C4%9Fmur-eroca%C4%9F%C4%B1-7a78bb360/)
 ### 🛠️ Tools I use
